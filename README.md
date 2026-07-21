@@ -110,5 +110,6 @@ The project generates:
 ## 👩‍💻 Author
 
 **Varsha A**
+
 AI & ML Graduate | Junior Data Scientist & Machine Learning Engineer | Python | SQL | Excel | 
 Power BI | Prompt Engineer | Front-End Developer 
